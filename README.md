@@ -18,5 +18,5 @@ feesible, such as; that items doesnt exist or we simply dont have enough, then t
 
 #Images
 ![Inventory](/bamazon/images/image1.png)
-![Prompt](/images/image2.png)
-![User Entry](/images/image3.png)
+![Prompt](/bamazon/images/image2.png)
+![User Entry](/bamazon/images/image3.png)
